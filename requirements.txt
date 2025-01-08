@@ -1,0 +1,7 @@
+aiofiles
+python-multipart
+tenacity>=8.2.0
+python-dotenv
+anthropic
+openai
+google-generativeai
